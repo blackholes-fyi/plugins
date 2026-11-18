@@ -1,0 +1,19 @@
+{
+  "name": "blackholes",
+  "version": "0.1.0",
+  "description": "Real black holes from BlackHoles.fyi in your assistant: eleven, each with its published mass, spin, distance and accretion rate, every number with its paper, and a live image in the chat.",
+  "author": {
+    "name": "BlackHoles.fyi",
+    "url": "https://blackholes.fyi"
+  },
+  "homepage": "https://blackholes.fyi/agents",
+  "privacyPolicyUrl": "https://blackholes.fyi/privacy",
+  "repository": "https://github.com/blackholes-fyi/plugins",
+  "keywords": [
+    "black holes",
+    "astronomy",
+    "physics",
+    "mcp",
+    "mcp-app"
+  ]
+}

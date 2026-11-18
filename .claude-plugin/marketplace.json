@@ -1,0 +1,17 @@
+{
+  "name": "blackholes-fyi",
+  "description": "Plugins from BlackHoles.fyi, which draws real black holes live from their measured numbers.",
+  "owner": {
+    "name": "BlackHoles.fyi",
+    "url": "https://blackholes.fyi"
+  },
+  "plugins": [
+    {
+      "name": "blackholes",
+      "description": "Real black holes from BlackHoles.fyi in your assistant: eleven, each with its published mass, spin, distance and accretion rate, every number with its paper, and a live image in the chat.",
+      "source": "./plugins/blackholes",
+      "category": "education",
+      "homepage": "https://blackholes.fyi/agents"
+    }
+  ]
+}

@@ -35,6 +35,11 @@ Claude, ChatGPT and other assistants add the server by its address. The
 steps, and the skill as a plain file, are on
 [blackholes.fyi/agents](https://blackholes.fyi/agents).
 
+## Licence
+
+MIT, for what is in this repository: the skill, this page and the plugin's
+manifests. The site's own code and images are not part of it.
+
 ## Changes
 
 The files here are generated from the site's own source, so changes are

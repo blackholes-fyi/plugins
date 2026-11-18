@@ -1,6 +1,6 @@
 {
   "name": "blackholes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Real black holes from BlackHoles.fyi in your assistant: eleven, each with its published mass, spin, distance and accretion rate, every number with its paper, and a live image in the chat.",
   "author": {
     "name": "BlackHoles.fyi",
@@ -8,6 +8,7 @@
   },
   "homepage": "https://blackholes.fyi/agents",
   "privacyPolicyUrl": "https://blackholes.fyi/privacy",
+  "license": "MIT",
   "repository": "https://github.com/blackholes-fyi/plugins",
   "keywords": [
     "black holes",

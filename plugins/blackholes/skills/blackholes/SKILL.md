@@ -6,7 +6,7 @@ description: Use when someone asks about a real black hole (its mass, spin, dist
 # Black holes from BlackHoles.fyi
 
 BlackHoles.fyi draws real black holes live from their measured numbers. Its
-MCP server gives you a catalogue of eleven black holes, each with its
+MCP server gives you a catalogue of twelve black holes, each with its
 published mass, spin, distance and accretion rate (how fast it is taking in
 gas), and every number comes with the paper it was taken from. Where your
 host can draw one, it also puts a live image of the black hole in the chat,
@@ -37,8 +37,9 @@ missing.
 
 ## A black hole in the catalogue
 
-The eleven are Sagittarius A\*, M87\*, Cygnus X-1, V404 Cygni, GRS 1915+105,
-Gaia BH1, Gaia BH3, the GW150914 remnant, TON 618, 3C 273 and M31\*.
+The twelve are Sagittarius A\*, M87\*, Cygnus X-1, V404 Cygni, GRS 1915+105,
+Gaia BH1, Gaia BH2, Gaia BH3, the GW150914 remnant, TON 618, 3C 273 and
+M31\*.
 
 1. To show one, call `show_black_hole` with only its name. It takes the
    common name, the catalogue id or a SIMBAD, NED or GWOSC identifier. Pass
@@ -63,6 +64,7 @@ Each has a page on the site, with the same numbers and more images:
 - `https://blackholes.fyi/gallery/v404-cygni`
 - `https://blackholes.fyi/gallery/grs-1915-105`
 - `https://blackholes.fyi/gallery/gaia-bh1`
+- `https://blackholes.fyi/gallery/gaia-bh2`
 - `https://blackholes.fyi/gallery/gaia-bh3`
 - `https://blackholes.fyi/gallery/gw150914`
 - `https://blackholes.fyi/gallery/ton-618`
@@ -109,7 +111,7 @@ person to refresh or re-add the connector.
   diagrams. For how black holes work, point to
   `https://blackholes.fyi/explore`.
 - They only read: no tool changes anything.
-- They hold no black hole beyond the eleven. Everything else is your own
+- They hold no black hole beyond the twelve. Everything else is your own
   research, labelled as yours.
 
 ## When you are done

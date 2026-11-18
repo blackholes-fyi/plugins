@@ -9,7 +9,7 @@ their measured numbers. This repository is its plugin marketplace for
 It adds two things:
 
 - **The BlackHoles.fyi MCP server** (`https://mcp.blackholes.fyi/mcp`). It gives your
-  assistant a catalogue of eleven real black holes, each with its published
+  assistant a catalogue of twelve real black holes, each with its published
   measurements and the paper every number came from. Where the assistant
   can draw one, it puts a live image of the black hole in the chat.
 - **A skill** that tells the assistant how to use the server: answer from
